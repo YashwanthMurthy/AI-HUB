@@ -39,7 +39,7 @@ ai-hub/
 
 ## 🚀 Quick Start
 
-1.  **Clone the Repository**: `git clone https://github.com/your-repo/ai-hub.git`
+1.  **Clone the Repository**: `git clone (https://github.com/YashwanthMurthy/AI-HUB)`
 2.  **Install Dependencies**: Run `npm install` in frontend and `pip install -r requirements.txt` in backend.
 3.  **Configure API Keys**: Add your LLM provider keys to the `.env` file.
 4.  **Launch**: Run `npm run dev` and `python main.py` to start the local environment.
